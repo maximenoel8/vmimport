@@ -1,0 +1,11 @@
+[
+  {
+     "Description": "SLES15-SP1-SAP-EC2-HVM Build1 142",
+     "Format": "raw",
+     "UserBucket": {
+         "S3Bucket": "maximenoel",
+         "S3Key": "SLES15-SP1-EC2-HVM-BYOS.x86_64-0.9.2-GM.raw"
+
+     }
+  }
+]
